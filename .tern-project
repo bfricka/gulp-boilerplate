@@ -1,0 +1,13 @@
+{
+  "libs": [
+    "chai",
+    "ecma5",
+    "browser",
+    "underscore"
+  ],
+
+  "plugins": {
+    "node": {},
+    "angular": true
+  }
+}
